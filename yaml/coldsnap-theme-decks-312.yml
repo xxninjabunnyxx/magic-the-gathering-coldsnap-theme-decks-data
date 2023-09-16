@@ -1,0 +1,109 @@
+---
+object: card
+id: 326e178c-29dd-4c2d-a888-fefec04d1be7
+oracle_id: 97ba11a1-16cd-47ee-a187-1e919c468e4e
+multiverse_ids: []
+tcgplayer_id: 82413
+cardmarket_id: 17677
+name: Barbed Sextant
+lang: en
+released_at: '2006-07-21'
+uri: https://api.scryfall.com/cards/326e178c-29dd-4c2d-a888-fefec04d1be7
+scryfall_uri: https://scryfall.com/card/cst/312/barbed-sextant?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/2/326e178c-29dd-4c2d-a888-fefec04d1be7.jpg?1593274822
+  normal: https://cards.scryfall.io/normal/front/3/2/326e178c-29dd-4c2d-a888-fefec04d1be7.jpg?1593274822
+  large: https://cards.scryfall.io/large/front/3/2/326e178c-29dd-4c2d-a888-fefec04d1be7.jpg?1593274822
+  png: https://cards.scryfall.io/png/front/3/2/326e178c-29dd-4c2d-a888-fefec04d1be7.png?1593274822
+  art_crop: https://cards.scryfall.io/art_crop/front/3/2/326e178c-29dd-4c2d-a888-fefec04d1be7.jpg?1593274822
+  border_crop: https://cards.scryfall.io/border_crop/front/3/2/326e178c-29dd-4c2d-a888-fefec04d1be7.jpg?1593274822
+mana_cost: "{1}"
+cmc: 1.0
+type_line: Artifact
+oracle_text: "{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color. Draw
+  a card at the beginning of the next turn's upkeep."
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: fd92cc13-e08d-4793-ae51-c4bd5e98210f
+set: cst
+set_name: Coldsnap Theme Decks
+set_type: box
+set_uri: https://api.scryfall.com/sets/fd92cc13-e08d-4793-ae51-c4bd5e98210f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acst&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cst?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/326e178c-29dd-4c2d-a888-fefec04d1be7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A97ba11a1-16cd-47ee-a187-1e919c468e4e&unique=prints
+collector_number: '312'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Amy Weber
+artist_ids:
+- c1160787-e72e-4f89-b361-c6864f7a4e3a
+illustration_id: 5fa9ffc1-d3f6-4aa8-b784-ed8dad1a9825
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 12600
+penny_rank: 4378
+prices:
+  usd: '0.79'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.48'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Barbed+Sextant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Barbed+Sextant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Barbed+Sextant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/82413?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Barbed+Sextant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Barbed+Sextant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
